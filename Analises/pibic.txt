@@ -1,0 +1,5 @@
+tunar rede ok
+geografico 
+truncado ok
+embaralhar e mse teste de hipotese rna todas as variaveis comparar com teste regressao ok
+testar variaveis
